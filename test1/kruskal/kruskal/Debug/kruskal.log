@@ -1,0 +1,6 @@
+﻿  源.c
+d:\算法\作业1\kruskal算法构造最小生成树\源码\kruskal\kruskal\源.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\算法\作业1\kruskal算法构造最小生成树\源码\kruskal\kruskal\源.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  kruskal.vcxproj -> D:\算法\作业1\kruskal算法构造最小生成树\源码\kruskal\Debug\kruskal.exe
